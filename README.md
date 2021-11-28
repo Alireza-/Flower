@@ -11,9 +11,9 @@ The system is presented in our paper ["Flower: A Data Analytics Flow Elasticity 
 
 # How to Install
 
-1.
-2.
-3.
+1. Install Java >= 1.7 Tomcat, Maven
+2. mvn clean package
+3. Copy Jar file to the Tomcat server. (Follow [tomcat documentation](https://tomcat.apache.org/tomcat-8.0-doc/deployer-howto.html#Deploying_on_a_running_Tomcat_server))
 
 # Contact
 
@@ -23,4 +23,5 @@ Ali Khoshkbar, Australian National University, alireza.khoshkbari@gmail.com
 
 Nipun Balan, Newcastle University, nipunbalan@gmail.com 
 
+Prof. Rajiv Ranjan, Newcastle University 
 

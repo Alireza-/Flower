@@ -1,0 +1,9 @@
+[submodule "iot-emulation-kit/edge-gatekeeper"]
+	path = iot-emulation-kit/edge-gatekeeper
+	url = git@github.com:ncl-iot-team/edge-gatekeeper.git
+[submodule "iot-emulation-kit/sensor-emulator"]
+	path = iot-emulation-kit/sensor-emulator
+	url = git@github.com:ncl-iot-team/sensor-emulator.git
+[submodule "iot-emulation-kit/edge-mon"]
+	path = iot-emulation-kit/edge-mon
+	url = git@github.com:ncl-iot-team/edge-mon.git
